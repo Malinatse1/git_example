@@ -3,6 +3,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello qa.quru!");
-        System.out.println("My name");
+ remove_pers_data
+        System.out.println("My name is! Censored ");
         }
     }
