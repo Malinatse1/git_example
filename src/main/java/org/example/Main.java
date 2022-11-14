@@ -3,6 +3,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello qa.quru!");
-        System.out.println("My name is Natali");
+        System.out.println("My name is Natalyy");
         }
     }
